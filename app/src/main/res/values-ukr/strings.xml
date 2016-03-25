@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Завдання Ялантісу</string>
+
+    <string name="txt_one">Комунальне підприємство</string>
+    <string name="txt_indicator">В роботі</string>
+    <string name="txt_crate">Створено</string>
+    <string name="txt_registered">Зареєстровано</string>
+    <string name="txt_dead_line">Вирішити до</string>
+    <string name="txt_worker">Відповідальній</string>
+    <string name="txt_worker_hand">Дніпропетровський МВК()</string>
+    <string name="txt_trble_description">Відсутній захист порталу в підземний світ, посеред дороги, перед підїздом дому25 провулка Матроского</string>
+    <string name="txt_crate_data">25 лютого 2016</string>
+    <string name="txt_registered_data">26 лютого 2016</string>
+    <string name="txt_dead_line_data">29 лютого 2016</string>
+</resources>

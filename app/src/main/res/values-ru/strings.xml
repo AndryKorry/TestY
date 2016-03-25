@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Задание Ялантиса</string>
+
+    <string name="txt_one">Комунальное предприятие</string>
+    <string name="txt_indicator">В работе</string>
+    <string name="txt_crate">Создано</string>
+    <string name="txt_registered">Зарегестрировано</string>
+    <string name="txt_dead_line">Решить до</string>
+    <string name="txt_worker">Ответственный</string>
+    <string name="txt_worker_hand">Днепропетровский МВК()</string>
+    <string name="txt_trble_description">Отсутствует зашитное ограждение портала в подземный мир, посередине дороги, перед подьездом дома 25 переулка Матроского</string>
+    <string name="txt_crate_data">25 февраля 2016</string>
+    <string name="txt_registered_data">26 февраля 2016</string>
+    <string name="txt_dead_line_data">29 февраля 2016</string>
+
+</resources>

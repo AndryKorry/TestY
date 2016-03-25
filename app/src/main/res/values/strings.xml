@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task yalantis</string>
+
+    <string name="txt_one">Communal enterprise</string>
+    <string name="txt_indicator">In working</string>
+    <string name="txt_crate">Create</string>
+    <string name="txt_registered">Registraited</string>
+    <string name="txt_dead_line">To solve</string>
+    <string name="txt_worker">Responsible</string>
+    <string name="txt_worker_hand">Dnipropetrovsk МВК()</string>
+    <string name="txt_trble_description">bla bla bla</string>
+    <string name="txt_crate_data">25 february 2016</string>
+    <string name="txt_registered_data">26 february 2016</string>
+    <string name="txt_dead_line_data">29 february 2016</string>
+</resources>
